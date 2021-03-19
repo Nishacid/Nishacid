@@ -10,5 +10,5 @@ You can find some open-source projects, especially the challenges I create, tool
 📧 You can contact me here : 
 <p align="center">
 &nbsp; <a href="https://twitter.com/Nishacid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="mailto:nishacid@protonmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/pastel-glyph/64/000000/email--v3.png"  width="50" /></a>
+&nbsp; <a href="mailto:nishacid@protonmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/email.png"  width="50" /></a>
 </p>
